@@ -11,6 +11,7 @@ British Airways, one of the most recognized airlines, is it truly great? This pr
 
 ## Dashboard
 ![Tableau dashboard](https://github.com/user-attachments/assets/697b6c66-f016-4994-be53-42ff47f3fa07)
+Tableau public vizualition link: https://public.tableau.com/app/profile/advait.athalye/viz/BritishAirwaysReview_17365784653580/Dashboard1
 
 
 ## Questions Answered
@@ -73,7 +74,6 @@ British-Airways-Dashboard/
 ├── ba_reviews.csv: Review dataset
 ├── Countries.csv: Country data
 ├── Dashboard.twbx: Tableau workbook file
-└── Images: Screenshots of key visualizations
 ```
 
 ## How to Use
