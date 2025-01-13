@@ -10,8 +10,7 @@ British Airways, one of the most recognized airlines, is it truly great? This pr
 4. To support decision-making by highlighting key areas for improvement.
 
 ## Dashboard
-<a href="https://public.tableau.com/app/profile/advait.athalye/viz/BritishAirwaysReview_17365784653580/Dashboard1">
-<a href="https://github.com/advaitathalye/British-Airways-Data-Analysis-Dashboard/blob/main/Tableau%20dashboard.PNG">
+https://github.com/advaitathalye/British-Airways-Data-Analysis-Dashboard/blob/main/Tableau%20dashboard.PNG
 
 ## Questions Answered
 1. How has the overall customer rating changed over time?
