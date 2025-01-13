@@ -18,9 +18,9 @@ British Airways, one of the most recognized airlines, is it truly great? This pr
 ## Datasets
 The project utilizes two datasets:
 1. <a href="https://github.com/advaitathalye/British-Airways-Data-Analysis-Dashboard/blob/main/ba_reviews.csv"> BA reviews </a>
-- Contains customer reviews and ratings from March 2016 to October 2023.
+   Contains customer reviews and ratings from March 2016 to October 2023.
 2. <a href="https://github.com/advaitathalye/British-Airways-Data-Analysis-Dashboard/blob/main/Countries.csv"> Countries </a>
-   - Provides geographical data for mapping country-level insights.
+   Provides geographical data for mapping country-level insights.
 
 ## Process Description
 ### Data Cleaning
